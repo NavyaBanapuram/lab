@@ -2,5 +2,5 @@
 - 👀 I’m interested in AI&ML,Data science,
 - 🌱 I’m currently persuing CSE(AI&ML)
 - 💞️ I’m looking to collaborate with companies which are researching and doing AI projects
-- 📫 How to reach me linkedin.com/navyabanapuram
+- 📫 How to reach me www.linkedin.com/in/navya-banapuram-65b986299
 
